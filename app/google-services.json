@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1090569556915",
+    "project_id": "ictnagaoka-member",
+    "storage_bucket": "ictnagaoka-member.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090569556915:android:541a16b351149eed5d71c6",
+        "android_client_info": {
+          "package_name": "jp.komehyappyo.member"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQnjEQiesOUCzUylKO9H8yVN4Y8HiFqUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
